@@ -11,6 +11,14 @@
       "value_constraint": "connection"
     }
   },
+  "user_attributes": [
+    {
+      "name": "last_selected_topic",
+      "label": "Last Selected Topic",
+      "user_can_edit": false,
+      "user_can_view": false
+    }
+  ],
   "models": [
     {
       "name": "looker-qa",
