@@ -3,7 +3,7 @@
   "category_label": "Models",
   "branding": {
     "image_uri": "https://marketplace-api.looker.com/app-icons/icon_lqa.png",
-    "tagline": "LQA"
+    "tagline": "Ask questions, get answers (Alpha)"
   },
   "constants": {
     "CONNECTION_NAME": {
