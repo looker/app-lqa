@@ -6,7 +6,9 @@ application: looker-qa {
   entitlements: {
     local_storage: yes
     scoped_user_attributes: ["last_selected_topic"]
-  }
+    core_api_methods: ["lookml_model_explore", "create_query", "run_query"]
+    new_window: yes
+    new_window_external_urls: ["https://forms.gle/stzFUqKrUuTqnCpb6"]  }
 }
 
 constant: CONNECTION_NAME {
