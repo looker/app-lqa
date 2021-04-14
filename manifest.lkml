@@ -2,7 +2,7 @@ project_name: "looker-qa"
 
 application: looker-qa {
   label: "Looker Q&A"
-  url: "https://open.extension.looker.com/lqa/bundle.js"
+  url: "https://static-a.lookercdn.com/extensions/lqa/master/bundle.js"
   entitlements: {
     local_storage: yes
     scoped_user_attributes: ["last_selected_topic"]
