@@ -1,9 +1,9 @@
 {
-  "label": "Looker Q&A",
+  "label": "Ask Looker",
   "category_label": "Models",
   "branding": {
     "image_uri": "https://marketplace-api.looker.com/app-icons/icon_lqa.png",
-    "tagline": "Ask questions, get answers (Beta)"
+    "tagline": "Ask Looker is currently in Beta. Contact us for help getting started."
   },
   "constants": {
     "CONNECTION_NAME": {
