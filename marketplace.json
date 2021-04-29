@@ -3,7 +3,7 @@
   "category_label": "Models",
   "branding": {
     "image_uri": "https://marketplace-api.looker.com/app-icons/icon_lqa.png",
-    "tagline": "Ask Looker is currently in Beta. Contact us for help getting started."
+    "tagline": "Find and visualize answers in your data using natural language"
   },
   "constants": {
     "CONNECTION_NAME": {
@@ -21,7 +21,7 @@
   },
   "models": [
     {
-      "name": "looker-qa",
+      "name": "ask_looker",
       "connection_constant": "CONNECTION_NAME"
     }
   ]
