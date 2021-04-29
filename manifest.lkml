@@ -1,7 +1,7 @@
-project_name: "looker-qa"
+project_name: "ask_looker"
 
-application: looker-qa {
-  label: "Looker Q&A"
+application: ask_looker {
+  label: "Ask Looker"
   url: "https://static-a.lookercdn.com/extensions/lqa/master/bundle.js"
   entitlements: {
     local_storage: yes
