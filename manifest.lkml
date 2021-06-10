@@ -6,7 +6,15 @@ application: ask_looker {
   entitlements: {
     local_storage: yes
     scoped_user_attributes: ["last_selected_topic"]
-    core_api_methods: ["lookml_model_explore", "create_query", "run_query", "get_explore_value_suggestions"]
+    core_api_methods: [
+      "all_lookml_models",
+      "create_query",
+      "get_explore_value_suggestions",
+      "lookml_model_explore",
+      "me",
+      "run_query",
+      "user_roles",
+    ]
     new_window: yes
     new_window_external_urls: ["https://forms.gle/stzFUqKrUuTqnCpb6"]  }
 }
