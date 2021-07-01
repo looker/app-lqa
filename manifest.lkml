@@ -5,6 +5,7 @@ application: ask_looker {
   url: "https://static-a.lookercdn.com/extensions/lqa/master/bundle.js"
   entitlements: {
     local_storage: yes
+    use_tracking_api: yes
     scoped_user_attributes: ["last_selected_topic"]
     core_api_methods: [
       "all_lookml_models",
