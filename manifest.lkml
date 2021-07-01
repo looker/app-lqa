@@ -6,6 +6,7 @@ application: ask_looker {
   entitlements: {
     local_storage: yes
     scoped_user_attributes: ["last_selected_topic"]
+    use_tracking: yes
     core_api_methods: [
       "all_lookml_models",
       "create_query",
